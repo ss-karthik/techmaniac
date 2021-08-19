@@ -1,3 +1,4 @@
 baseURL = "https://tech-maniac.netlify.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Tech Maniac"
+theme = "hugo-clarity"
